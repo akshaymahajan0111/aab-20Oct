@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "heading": "Hello, World!",
+    "subtitle": "Your app is up and running.",
+    "cta": "Get Started"
+  },
+  "features": [
+    {
+      "id": "f1",
+      "icon": "Zap",
+      "title": "Fast",
+      "description": "Instant hot-reload and blazing-fast builds powered by Vite."
+    },
+    {
+      "id": "f2",
+      "icon": "Layers",
+      "title": "Modern Stack",
+      "description": "React 19, TypeScript, Tailwind CSS, and shadcn UI out of the box."
+    },
+    {
+      "id": "f3",
+      "icon": "CheckCircle",
+      "title": "Ready to Test",
+      "description": "Everything is wired up and ready for your next experiment."
+    }
+  ]
+}
